@@ -1,3 +1,5 @@
+OUT OF DATE OTHER FIXES HAVE BEEN MADE I BELIEVE!
+
 # Jim_Bridge
 
 This script is intended to be used with my all my scripts (soon)
